@@ -19,7 +19,7 @@ A React application for searching and browsing movies using an external API.
 
 ## Demo
 
-[Live Demo](ссылка)
+[Live Demo](https://goit-react-hw-05-t476.vercel.app/)
 
 ## Purpose
 
